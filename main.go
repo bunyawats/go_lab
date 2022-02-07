@@ -11,6 +11,9 @@ func main() {
 	//lab.GenericLab()
 	//lab.GoRountineLab()
 	//lab.RunHTTP()
-	lab.FlagLab()
+	//lab.FlagLab()
+	//lab.GoRountineLab2()
+
+	lab.HelloGin()
 
 }

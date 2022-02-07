@@ -27,7 +27,8 @@ func GenericLab() {
 		"second": 26.99,
 	}
 
-	fmt.Printf("Generic Sums with Constraint: %v and %v\n",
+	fmt.Printf(
+		"Generic Sums with Constraint: %v and %v\n",
 		SumNumbers(ints),
 		SumNumbers(floats),
 	)

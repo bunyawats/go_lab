@@ -13,5 +13,5 @@ func HelloGin() {
 			},
 		)
 	})
-	router.Run()
+	router.Run(":5050")
 }

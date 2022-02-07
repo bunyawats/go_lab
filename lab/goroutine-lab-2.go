@@ -18,7 +18,7 @@ func GoRountineLab2() {
 			wg.Add(1)
 			go func(m int) {
 				for j := 0; j < y; j++ {
-					c <- j + (10 * m)
+					c <- (10 * m) + j
 				}
 				wg.Done()
 			}(i)
