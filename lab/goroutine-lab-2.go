@@ -6,7 +6,7 @@ import (
 	"sync"
 )
 
-func GoRountineLab2() {
+func GoRoutineLab2() {
 	x := 10
 	y := 10
 	c := make(chan int)

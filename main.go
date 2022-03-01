@@ -8,12 +8,12 @@ import (
 func main() {
 	fmt.Println("Hello Lab")
 
-	//lab.GenericLab()
-	//lab.GoRountineLab()
+	lab.GenericLab()
+	//lab.GoRoutineLab()
 	//lab.RunHTTP()
 	//lab.FlagLab()
-	//lab.GoRountineLab2()
+	//lab.GoRoutineLab2()
 
-	lab.HelloGin()
+	//lab.HelloGin()
 
 }

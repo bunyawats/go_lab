@@ -2,10 +2,7 @@ module go_lab
 
 go 1.18
 
-require (
-	github.com/gin-gonic/gin v1.7.7
-	rsc.io/quote v1.5.2
-)
+require github.com/gin-gonic/gin v1.7.7
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
@@ -24,5 +21,4 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	rsc.io/sampler v1.99.99 // indirect
 )

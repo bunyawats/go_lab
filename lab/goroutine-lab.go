@@ -6,7 +6,7 @@ import (
 	"sync"
 )
 
-func GoRountineLab() {
+func GoRoutineLab() {
 
 	const size = 5
 
