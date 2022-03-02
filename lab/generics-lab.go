@@ -8,7 +8,7 @@ type Number interface {
 	int64 | float64
 }
 
-func SumNumbers[K string, V Number](m map[K]V) V {
+func SumNumbers[K comparable, V Number](m map[K]V) V {
 	var s V
 	for _, v := range m {
 		s += v
