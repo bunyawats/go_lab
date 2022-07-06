@@ -15,6 +15,7 @@ func main() {
 	//lab.GoRoutineLab2()
 
 	//lab.HelloGin()
-	lab.GoMockLab()
+	//lab.GoMockLab()
+	lab.ConsumingRest()
 
 }
