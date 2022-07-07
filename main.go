@@ -16,6 +16,7 @@ func main() {
 
 	//lab.HelloGin()
 	//lab.GoMockLab()
-	lab.ConsumingRest()
+	//lab.ConsumingRest()
+	lab.WebAssemblyLab()
 
 }
