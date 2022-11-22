@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001a0289-a74e-48b1-886e-227e966fcfea" name="Changes" comment="Test Atomic Pointer for Go V1.9">
-      <change afterPath="$PROJECT_DIR$/dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/file_lab.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    <list default="true" id="001a0289-a74e-48b1-886e-227e966fcfea" name="Changes" comment="Test file handler library">
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,8 @@
     <MESSAGE value="Consuming Rest" />
     <MESSAGE value="Web Assembly" />
     <MESSAGE value="Test Atomic Pointer for Go V1.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Atomic Pointer for Go V1.9" />
+    <MESSAGE value="Test file handler library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test file handler library" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
