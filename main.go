@@ -19,6 +19,7 @@ func main() {
 	//lab.ConsumingRest()
 	//lab.WebAssemblyLab()
 
-	lab.AtomicPointer()
+	//lab.AtomicPointer()
+	lab.FileLab()
 
 }

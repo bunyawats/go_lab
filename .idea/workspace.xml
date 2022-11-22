@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="001a0289-a74e-48b1-886e-227e966fcfea" name="Changes" comment="Web Assembly">
-      <change afterPath="$PROJECT_DIR$/lab/atomic-pointer-lab.go" afterDir="false" />
+    <list default="true" id="001a0289-a74e-48b1-886e-227e966fcfea" name="Changes" comment="Test Atomic Pointer for Go V1.9">
+      <change afterPath="$PROJECT_DIR$/dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/file_lab.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="$PROJECT_DIR$/lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.user_test.go">
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="go_lab" />
       <working_directory value="$PROJECT_DIR$" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.user_test.go" />
         <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.user_test.go" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,8 @@
     <MESSAGE value="Use GoMock" />
     <MESSAGE value="Consuming Rest" />
     <MESSAGE value="Web Assembly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web Assembly" />
+    <MESSAGE value="Test Atomic Pointer for Go V1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Atomic Pointer for Go V1.9" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
